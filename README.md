@@ -3,6 +3,8 @@
 
 Linktree clone with user account system and authentication to display social links using React, NextJS, TailwindCSS, & Supabase.
 
+![Demo](images/demo.gif)
+
 ## Installation
 
 1. Install [`Tailwind CSS with Next.js`](https://tailwindcss.com/docs/guides/nextjs).
@@ -18,7 +20,7 @@ npm install @supabase/supabase-js
 
 5. Run and install the react package for uploading images: 
 ```bash
-npm install @supabase/supabase-js
+npm install --save react-images-uploading
 ```
 
 6. Create a new table in [`Supabase`](https://supabase.com).
