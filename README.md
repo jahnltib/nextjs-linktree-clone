@@ -1,8 +1,10 @@
 # linktree-clone 
 
-Linktree clone with user account system and authentication to display social links using React, NextJS, TailwindCSS, & Supabase.
+Linktree clone with user account system and authentication to display social links using React with NextJS, TailwindCSS, & Supabase.
 
 ![Example](images/screenshot1.png)
+
+## Demo 
 ![Demo](images/demo.gif)
 
 ## Features 
@@ -18,7 +20,7 @@ Linktree clone with user account system and authentication to display social lin
 I implemented this project in order to:
 - Utilize and gain experience with Supabase
 - Create a project using Next.JS and tailwind
-- Use authentication via Supabase 
+- Implement user-authentication via Supabase 
 - Implement image uploading via the [`react-images-uploading`](https://www.npmjs.com/package/react-images-uploading) package.
 
 ## Installation 
