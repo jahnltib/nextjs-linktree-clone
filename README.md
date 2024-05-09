@@ -38,7 +38,7 @@ npm install @supabase/supabase-js
 
 5. Run and install the react package for uploading images: 
 ```bash
-npm install @supabase/supabase-js
+npm install --save react-images-uploading
 ```
 
 6. Create a new table in [`Supabase`](https://supabase.com).
