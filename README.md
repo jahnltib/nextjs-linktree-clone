@@ -2,6 +2,7 @@
 
 Linktree clone with user account system and authentication to display social links using React, NextJS, TailwindCSS, & Supabase.
 
+![Example](images/screenshot1.png)
 ![Demo](images/demo.gif)
 
 ## Features 
